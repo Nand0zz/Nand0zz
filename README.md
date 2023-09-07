@@ -23,8 +23,7 @@
 
 ---
 <br />
-[![Nand0zz's GitHub | Stats](https://stats.quine.sh/Nand0zz/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Nand0zz)
-                    
+
 
 <h2>Languages and Tools</h2> 
 <p align="left">
