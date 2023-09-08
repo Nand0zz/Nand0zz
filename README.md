@@ -27,7 +27,7 @@
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="600px"  src="https://skillicons.dev/icons?i=html,css,wordpress,js,react,py,pr,ps,ai,ae,c,java,aws&perline=9"  />
+<img width="600px" align="justify" src="https://skillicons.dev/icons?i=html,css,wordpress,js,react,py,pr,ps,ai,ae,c,java,aws&perline=9"  />
 </p>
 <br />
 
@@ -54,18 +54,7 @@
 <a href="https://github.com/Nand0zz#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Nand0zz&theme=vue#gh-light-mode-only" alt="Nand0zz" /></a></p>
 <br/>
 
----
-
-
-                    
-
-<h2>My Latest Project</h2> 
-<br />
-<p><a href="https://github.com//https://github.com/Nand0zz/codex_nandini#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nand0zz&repo=https://github.com/Nand0zz/codex_nandini&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com//https://github.com/Nand0zz/codex_nandini#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nand0zz&repo=https://github.com/Nand0zz/codex_nandini&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
-<br />
-
-                    
+---               
 
 <h2>Connect With Me</h2> 
 <p align="left">
